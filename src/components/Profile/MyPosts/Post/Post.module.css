@@ -1,0 +1,15 @@
+.content {
+    grid-area: c;
+    background-color: rgb(59, 53, 44);
+
+  }
+
+.item {
+    color: aliceblue;
+    margin: 20px;
+}
+
+.item img {
+  height: 80px;
+  border-radius: 40px;
+}
